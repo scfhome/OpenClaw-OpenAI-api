@@ -1,4 +1,4 @@
-## 🚀 在 OpenClaw 里接入第三方 OpenAI 兼容 API：完整小白教程
+## 🚀 OpenClaw 小白保姆级教程：接入第三方 OpenAI 模型
 
 > **适用版本**：2026.2.6 及之后的 OpenClaw（参考仓库 `openclaw/openclaw`）  
 > **难度**：⭐（只需修改一个配置文件）  
